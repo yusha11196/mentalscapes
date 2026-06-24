@@ -8,6 +8,8 @@
 <body>
 
     <header>
+        <link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
         <nav>
             <a href="/">Home</a>
             <a href="/posts">Posts</a>
@@ -20,12 +22,23 @@
         {{ content }}
     </main>
 
-    <footer>
-        <a href="https://instagram.com/yourname">Instagram</a>
-        <a href="https://facebook.com/yourname">Facebook</a>
-        <a href="https://discord.gg/yourserver">Discord</a>
-        <a href="mailto:you@email.com">Email</a>
-    </footer>
+   <footer class="footer">
+    <a href="https://instagram.com/yourname" target="_blank">
+        <i class="fab fa-instagram"></i>
+    </a>
+
+    <a href="https://facebook.com/yourname" target="_blank">
+        <i class="fab fa-facebook"></i>
+    </a>
+
+    <a href="https://discord.gg/yourserver" target="_blank">
+        <i class="fab fa-discord"></i>
+    </a>
+
+    <a href="mailto:you@email.com" class="email-link">
+        ✉ you@email.com
+    </a>
+</footer>
 
 </body>
 </html>
