@@ -4,8 +4,8 @@ title: Home
 ---
 
 <div class="hero">
-    <img src="/assets/mindscapes.jpeg"
-         alt="Homepage Image">
+ <img src="{{ '/assets/mindscapes.jpeg' | relative_url }}"
+     alt="Homepage Image">
 </div>
 
 <div class="home-content">
