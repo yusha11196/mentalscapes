@@ -3,41 +3,84 @@
 <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/style.css">
+
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <style>
+        html {
+            min-height: 100%;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            font-family: Arial, sans-serif;
+        }
+
+        main {
+            flex: 1;
+            padding: 20px;
+        }
+
+        header {
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+        }
+
+        .footer {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            padding: 15px;
+            border-top: 1px solid #ddd;
+            flex-wrap: wrap;
+        }
+
+        .footer i {
+            font-size: 28px;
+        }
+
+        .email-link {
+            font-size: 16px;
+        }
+    </style>
 </head>
 <body>
 
-    <header>
-        <link rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-        <nav>
-            <a href="/">Home</a>
-            <a href="/posts">Posts</a>
-            <a href="/tags">Tags</a>
-            <a href="/collections">Collections</a>
-        </nav>
-    </header>
+<header>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/posts">Posts</a>
+        <a href="/tags">Tags</a>
+        <a href="/collections">Collections</a>
+    </nav>
+</header>
 
-    <main>
-        {{ content }}
-    </main>
+<main>
+    {{ content }}
+</main>
 
-   <footer class="footer">
-    <a href="https://instagram.com/yourname" target="_blank">
-        <i class="fab fa-instagram"></i>
-    </a>
-
-    <a href="https://facebook.com/yourname" target="_blank">
-        <i class="fab fa-facebook"></i>
-    </a>
-
-    <a href="https://discord.gg/yourserver" target="_blank">
-        <i class="fab fa-discord"></i>
-    </a>
-
-    <a href="mailto:you@email.com" class="email-link">
-        ✉ you@email.com
-    </a>
+<footer class="footer">
+    <a href="https://instagram.com/yourname"><i class="fab fa-instagram"></i></a>
+    <a href="https://facebook.com/yourname"><i class="fab fa-facebook"></i></a>
+    <a href="https://discord.gg/yourserver"><i class="fab fa-discord"></i></a>
+    <a href="mailto:you@email.com" class="email-link">✉ you@email.com</a>
 </footer>
 
 </body>
