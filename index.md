@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="hero">
-    <img src="/assets/images/mindscapes.jpeg"
+    <img src="/assets/mindscapes.jpeg"
          alt="Homepage Image">
 </div>
 
