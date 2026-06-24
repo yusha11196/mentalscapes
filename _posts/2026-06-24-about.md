@@ -1,0 +1,1 @@
+This website is dedicated to be a kind of virtual journal for me to write down my thoughts, observation, discoveries, log entries and progress on different projects and to curate arts and music that I like my github account and contact information can be found in the footer
