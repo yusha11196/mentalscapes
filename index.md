@@ -17,7 +17,7 @@ title: Home
     </p>
 
     <div class="quick-links">
-        <a href="/posts">Browse Posts</a>
+        <a href="/posts">Browse Blog Posts</a>
         <a href="/tags">Browse Tags</a>
         <a href="/collections">Collections</a>
     </div>
