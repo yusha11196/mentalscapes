@@ -3,10 +3,11 @@ layout: default
 title: Home
 ---
 
-<div class="hero">
- <img src="{{ '/assets/mindscapes.jpeg' | relative_url }}"
-     alt="Homepage Image">
+
+ <div class="hero">
+    <img src="assets/mindscapes.jpeg" alt="Homepage Image">
 </div>
+
 
 <div class="home-content">
     <h1>Welcome</h1>
