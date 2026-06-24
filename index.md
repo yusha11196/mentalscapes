@@ -17,7 +17,7 @@ title: Home
     </p>
 
     <div class="quick-links">
-        <a href="/posts.html">Browse Blog Posts</a>
+        <a href="{{ '/posts.html' | relative_url }}">Browse Blog Posts</a>
         <a href="/tags">Browse Tags</a>
         <a href="/collections">Collections</a>
     </div>
