@@ -3,10 +3,8 @@ layout: home
 title: Home
 ---
 
-# Posts
+## Posts
 
-{% raw %}
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
+* [{{ post.title }}]({{ post.url }})
 {% endfor %}
-{% endraw %}
