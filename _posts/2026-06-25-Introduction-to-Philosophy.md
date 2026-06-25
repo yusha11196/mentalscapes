@@ -4,7 +4,7 @@ title: Introduction to Philosophy
 ---
 **Date:25/6/26**
 #### **Introduction to Philosophy**
-Inspirations: [An outline of Philosophy by Dr.Abdul Matin]([An Outline Of Philosophy : Matin, Abdul Tr. : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/in.ernet.dli.2015.454698/mode/2up))
+Inspirations: [An outline of Philosophy by Dr.Abdul Matin](https://archive.org/details/in.ernet.dli.2015.454698/mode/2up)
 
 
 
