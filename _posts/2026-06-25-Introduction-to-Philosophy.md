@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Introduction to Philosophy
+tags:
+  - philosophy
+  - metaphysics
 ---
 **Date:25/6/26**
 #### **Introduction to Philosophy**
