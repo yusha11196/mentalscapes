@@ -2,10 +2,11 @@
 layout: default
 title: Introduction to Philosophy
 ---
+**Date:25/6/26**
 #### **Introduction to Philosophy**
 Inspirations: [An outline of Philosophy by Dr.Abdul Matin]([An Outline Of Philosophy : Matin, Abdul Tr. : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/in.ernet.dli.2015.454698/mode/2up))
 
-**Date:25/6/26**
+
 
 Philosophy can be defined as an attempt to understand existence reality and our own being through the application of our intellectual faculties. Philosophy is the conjugation of two Greek words Phileo = The love of something and Sophia = wisdom so the word philosophy means the love of wisdom. Philosophy seeks to know, understand and interpret the ultimate nature and meaning of existence, reality and the universe through the right application of our faculties of knowledge. It is especially interested in man's own being for two reasons
 
