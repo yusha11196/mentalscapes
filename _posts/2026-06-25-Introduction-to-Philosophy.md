@@ -11,7 +11,7 @@ Inspirations: [An outline of Philosophy by Dr.Abdul Matin](https://archive.org/d
 
 
 
-Philosophy can be defined as an attempt to understand existence reality and our own being through the application of our intellectual faculties. Philosophy is the conjugation of two Greek words Phileo = The love of something and Sophia = wisdom so the word philosophy means the love of wisdom. Philosophy seeks to know, understand and interpret the ultimate nature and meaning of existence, reality and the universe through the right application of our faculties of knowledge. It is especially interested in man's own being for two reasons
+Philosophy can be defined as an attempt to understand existence reality and our own being through the application of our intellectual faculties. The word Philosophy is the conjugation of two Greek words Phileo = The love of something and Sophia = wisdom so the word philosophy means the love of wisdom. Philosophy seeks to know, understand and interpret the ultimate nature and meaning of existence, reality and the universe through the right application of our faculties of knowledge. It is especially interested in man's own being for two reasons
 
 1. Curiosity about his own being
 2. Man seems to be the highest species in nature so understanding him goes a long way in understanding the universe at large . The philosopher's inquiry about the world is ultimately an inquiry about himself
